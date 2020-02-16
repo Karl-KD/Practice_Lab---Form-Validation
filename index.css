@@ -1,0 +1,34 @@
+.head
+{
+    padding-top: 50px;
+}
+
+label 
+{
+    font-weight: bold;
+}
+
+#one
+{
+   width: 700px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+#two
+{
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.buttons
+{
+  text-align: center;
+}
+
+.hot
+{
+  width: 698px;
+  border-radius: 5px;
+  border-style: solid;
+}
